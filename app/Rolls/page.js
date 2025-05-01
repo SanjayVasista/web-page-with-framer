@@ -81,9 +81,9 @@ const Rolls = () => {
               Pre-owned
             </a>
             <Link href="/" className="hover:text-gray-400">Home</Link>
-            <a href="/cookies" className="hover:text-gray-400">Information</a>
-            <a href="/press" className="hover:text-gray-400">Pressclub</a>
-            <a href="/legal" className="hover:text-gray-400">Legal</a>
+            <a href="/" className="hover:text-gray-400">Information</a>
+            <a href="/" className="hover:text-gray-400">Pressclub</a>
+            <a href="/" className="hover:text-gray-400">Legal</a>
           </nav>
         </div>
       </header>
