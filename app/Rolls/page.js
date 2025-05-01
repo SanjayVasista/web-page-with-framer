@@ -77,7 +77,7 @@ const Rolls = () => {
         <div className="container mx-auto flex justify-between items-center">
           <h1 className="text-xl font-bold">Car Showcase</h1>
           <nav className="flex space-x-4">
-            <a href="/pre-owned" className="hover:text-gray-400">
+            <a href="/" className="hover:text-gray-400">
               Pre-owned
             </a>
             <Link href="/" className="hover:text-gray-400">Home</Link>
